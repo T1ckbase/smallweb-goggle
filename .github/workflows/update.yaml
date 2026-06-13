@@ -1,0 +1,51 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  update:
+    permissions:
+      contents: write
+
+    if: github.repository == 'T1ckbase/smallweb-goggle'
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: ^2
+
+      - name: Build
+        run: deno task build
+
+      - name: Update
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet HEAD -- smallweb.goggle; then
+            echo 'No changes to smallweb.goggle'
+            exit 0
+          fi
+
+          git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --local user.name 'github-actions[bot]'
+
+          git add smallweb.goggle
+          git commit -m 'chore: update smallweb.goggle'
+          git push
+
+          sleep 10
+
+          deno task submit
+
+    timeout-minutes: 5
