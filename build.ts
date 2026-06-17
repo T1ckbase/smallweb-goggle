@@ -7,7 +7,6 @@ let goggle = `! name: Kagi Small Web
 ! homepage: https://github.com/T1ckbase/smallweb-goggle
 ! issues: https://github.com/T1ckbase/smallweb-goggle/issues
 ! avatar: #ffb319
-! license: Unlicense
 
 $discard
 
