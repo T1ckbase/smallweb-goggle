@@ -16360,7 +16360,7 @@ $boost=3,site=git-meta.com
 $boost=3,site=git-pull.com
 $boost=3,site=git-vitae.github.io
 $boost=3,site=gitbybit.com
-$boost=3,site=github.com
+$boost=1,site=github.com
 $boost=3,site=github.crookster.org
 $boost=3,site=github.polettix.it
 $boost=3,site=githyankidiaspora.com

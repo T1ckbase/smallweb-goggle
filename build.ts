@@ -1,5 +1,10 @@
 import smallweb from 'smallweb' with { type: 'text' };
 
+const BOOST = 3;
+const BOOST_OVERRIDES: Record<string, number> = {
+  'github.com': 1,
+};
+
 let goggle = `! name: Kagi Small Web
 ! description: shows only Kagi Small Web sites
 ! public: true
@@ -34,7 +39,8 @@ $discard
 
 for (const url of smallweb.trim().split(/\r\n|\n|\r/)) {
   const { hostname } = new URL(url);
-  goggle += `$boost=3,site=${hostname}\n`;
+  const boost = BOOST_OVERRIDES[hostname] ?? BOOST;
+  goggle += `$boost=${boost},site=${hostname}\n`;
 }
 
 Deno.writeTextFileSync('./smallweb.goggle', goggle);
