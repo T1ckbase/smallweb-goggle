@@ -28,6 +28,9 @@ $discard
 ! OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 ! SOFTWARE.
 
+$boost=3,site=antolinez.ch
+$boost=3,site=skushagra.com
+$boost=3,site=koenraijer.com
 $boost=3,site=200sc.dev
 $boost=3,site=3d.laboratorium.net
 $boost=3,site=3niti.org
