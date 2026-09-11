@@ -261,6 +261,10 @@ $boost=3,site=feeds.feedburner.com
 $boost=3,site=feeds.feedburner.com
 $boost=3,site=feeds.feedburner.com
 $boost=3,site=feeds.feedburner.com
+$boost=3,site=feeds.feedburner.com
+$boost=3,site=feeds.feedburner.com
+$boost=3,site=feeds.feedburner.com
+$boost=3,site=feeds.feedburner.com
 $boost=3,site=feeds.finertech.com
 $boost=3,site=feeds.fosketts.net
 $boost=3,site=feeds.fosketts.net
@@ -1909,6 +1913,7 @@ $boost=3,site=akshayr.xyz
 $boost=3,site=akshaytrikha.github.io
 $boost=3,site=akshayverma.xyz
 $boost=3,site=akshit.org
+$boost=3,site=akshy.codeberg.page
 $boost=3,site=akstuhl.net
 $boost=3,site=akuz.me
 $boost=3,site=akzn.me
@@ -2102,6 +2107,7 @@ $boost=3,site=alexeystar.com
 $boost=3,site=alexfurrier.dev
 $boost=3,site=alexgarcia.xyz
 $boost=3,site=alexgaynor.net
+$boost=3,site=alexgettinglost.com
 $boost=3,site=alexglv.com
 $boost=3,site=alexhans.github.io
 $boost=3,site=alexharford.com
@@ -2176,6 +2182,7 @@ $boost=3,site=alextaylor.ca
 $boost=3,site=alextecplayz.com
 $boost=3,site=alextheward.com
 $boost=3,site=alexunderwood.net
+$boost=3,site=alexvestea.com
 $boost=3,site=alexwang.ai
 $boost=3,site=alexwennerberg.com
 $boost=3,site=alexwest.co
@@ -2202,6 +2209,7 @@ $boost=3,site=alfredtm.github.io
 $boost=3,site=alfy.blog
 $boost=3,site=alganet.github.io
 $boost=3,site=algassert.com
+$boost=3,site=algebra.fallible.net
 $boost=3,site=alhassy.com
 $boost=3,site=ali-alkhatib.com
 $boost=3,site=ali.mk
@@ -2332,6 +2340,7 @@ $boost=3,site=aloutfi.com
 $boost=3,site=alovak.com
 $boost=3,site=aloysberger.com
 $boost=3,site=alp1n3.dev
+$boost=3,site=alpaca-clouds.tumblr.com
 $boost=3,site=alpennia.com
 $boost=3,site=alper.bearblog.dev
 $boost=3,site=alper.datav.is
@@ -2570,6 +2579,7 @@ $boost=3,site=anatoliikmt.me
 $boost=3,site=anatolinicolae.com
 $boost=3,site=ancapchan.info
 $boost=3,site=ancazugo.github.io
+$boost=3,site=anchorsandlinks.com
 $boost=3,site=ancientelectronics.wordpress.com
 $boost=3,site=ancientrecipes.wordpress.com
 $boost=3,site=ancientshell.com
@@ -2846,6 +2856,7 @@ $boost=3,site=anil.recoil.org
 $boost=3,site=anil.recoil.org
 $boost=3,site=anilchawla.org
 $boost=3,site=anilnetto.com
+$boost=3,site=anima-ai.org
 $boost=3,site=anima-mundi.bearblog.dev
 $boost=3,site=anima.nz
 $boost=3,site=animalarchaeology.com
@@ -3036,6 +3047,7 @@ $boost=3,site=anuraagsridhar.com
 $boost=3,site=anuragbhatia.com
 $boost=3,site=anuragbishnoi.wordpress.com
 $boost=3,site=anuraj.dev
+$boost=3,site=anuratype.bearblog.dev
 $boost=3,site=anureet.bearblog.dev
 $boost=3,site=anvayrane.bearblog.dev
 $boost=3,site=anvtl.com
@@ -3210,6 +3222,7 @@ $boost=3,site=arielcoppes.dev
 $boost=3,site=arielkoren.com
 $boost=3,site=arielorozco.com
 $boost=3,site=arielsalminen.com
+$boost=3,site=arielsym.blog
 $boost=3,site=arielwaldman.com
 $boost=3,site=arif.sh
 $boost=3,site=arifordsham.com
@@ -3700,6 +3713,7 @@ $boost=3,site=ayfkm.blog
 $boost=3,site=ayham.xyz
 $boost=3,site=aykevl.nl
 $boost=3,site=aylabythesea.com
+$boost=3,site=ayles.github.io
 $boost=3,site=aylgorith.com
 $boost=3,site=aylo6061.com
 $boost=3,site=ayman.eldidi.org
@@ -4022,6 +4036,7 @@ $boost=3,site=bearoneill.com
 $boost=3,site=bearroll.bearblog.dev
 $boost=3,site=bearswillattack.bearblog.dev
 $boost=3,site=bearthatcodes.uk
+$boost=3,site=beast.blot.im
 $boost=3,site=beastwhimsy.tumblr.com
 $boost=3,site=beastx.ro
 $boost=3,site=beathagenlocher.com
@@ -4227,6 +4242,7 @@ $boost=3,site=benmoskowitz.com
 $boost=3,site=benmyers.dev
 $boost=3,site=bennet.org
 $boost=3,site=bennettftomlin.com
+$boost=3,site=bennettskaya.bearblog.dev
 $boost=3,site=bennewmark.wordpress.com
 $boost=3,site=bennhuang.com
 $boost=3,site=benniemosher.com
@@ -4507,6 +4523,7 @@ $boost=3,site=bitedown.bearblog.dev
 $boost=3,site=bitesofcode.wordpress.com
 $boost=3,site=bitfehler.srht.site
 $boost=3,site=bitfieldconsulting.com
+$boost=3,site=bitflavored.bearblog.dev
 $boost=3,site=bithebayesianway.wordpress.com
 $boost=3,site=bitprophet.org
 $boost=3,site=bits.caseyjr.org
@@ -4551,6 +4568,7 @@ $boost=3,site=bjornjohansen.com
 $boost=3,site=bjornstar.com
 $boost=3,site=bjornwestergard.com
 $boost=3,site=bjro.dev
+$boost=3,site=bkal01.github.io
 $boost=3,site=bkaradzic.github.io
 $boost=3,site=bkardell.com
 $boost=3,site=bkataru.bearblog.dev
@@ -7624,6 +7642,7 @@ $boost=3,site=bureaumirror.neocities.org
 $boost=3,site=burf.co
 $boost=3,site=burgeonlab.com
 $boost=3,site=burgerdigest.com
+$boost=3,site=burgernetonline.bearblog.dev
 $boost=3,site=burgessforensics.com
 $boost=3,site=burialsandbeyond.com
 $boost=3,site=buried-in-stardust.tumblr.com
@@ -8045,6 +8064,7 @@ $boost=3,site=cathieleblanc.com
 $boost=3,site=cathieleblanc.com
 $boost=3,site=cathydutton.co.uk
 $boost=3,site=catileptic.tech
+$boost=3,site=catinashell.de
 $boost=3,site=catlewis.com
 $boost=3,site=catlikecoding.com
 $boost=3,site=catnormoyle.com
@@ -8766,6 +8786,7 @@ $boost=3,site=clippingsilver.com
 $boost=3,site=clivetbaccosmoker.bearblog.dev
 $boost=3,site=clkoerner.com
 $boost=3,site=clockinfo.com
+$boost=3,site=clockworkthought.com
 $boost=3,site=clofer.codeberg.page
 $boost=3,site=clojure-diary.gitlab.io
 $boost=3,site=clojure-goes-fast.com
@@ -9311,6 +9332,7 @@ $boost=3,site=craftdeology.com
 $boost=3,site=craftedbypanda.co.uk
 $boost=3,site=craftedbytes.dev
 $boost=3,site=craftingengstrategy.com
+$boost=3,site=craftinghelen.blogspot.com
 $boost=3,site=craftingjava.com
 $boost=3,site=craftofcoding.wordpress.com
 $boost=3,site=craftpoker.com
@@ -9537,6 +9559,7 @@ $boost=3,site=cweiske.de
 $boost=3,site=cwickham.blogspot.com
 $boost=3,site=cwilso.com
 $boost=3,site=cwiok.pl
+$boost=3,site=cwodtke.com
 $boost=3,site=cwoebker.com
 $boost=3,site=cwoodall.com
 $boost=3,site=cwrichardkim.com
@@ -10106,6 +10129,7 @@ $boost=3,site=davethedoodler.neocities.org
 $boost=3,site=daveverse.org
 $boost=3,site=daveverse.org
 $boost=3,site=davevoyles.com
+$boost=3,site=davezilla.com
 $boost=3,site=davi.sh
 $boost=3,site=david-barreto.com
 $boost=3,site=david-jasso.com
@@ -10196,6 +10220,7 @@ $boost=3,site=davidjgoodwin.com
 $boost=3,site=davidjohnmead.com
 $boost=3,site=davidjwalz.com
 $boost=3,site=davidkanigan.com
+$boost=3,site=davidkbutler.xyz
 $boost=3,site=davidkrider.com
 $boost=3,site=davidlabaree.com
 $boost=3,site=davidlattimore.github.io
@@ -10358,6 +10383,7 @@ $boost=3,site=debene.dev
 $boost=3,site=debian-official.tumblr.com
 $boost=3,site=debramaymacleod.com
 $boost=3,site=debrouwere.org
+$boost=3,site=debsgems.blogspot.com
 $boost=3,site=debugagent.com
 $boost=3,site=debugbetter.com
 $boost=3,site=debuggerdotbreak.judahgabriel.com
@@ -11107,6 +11133,7 @@ $boost=3,site=dominik.wombacher.cc
 $boost=3,site=dominikhofer.me
 $boost=3,site=dominikschwind.com
 $boost=3,site=dominiksobe.com
+$boost=3,site=dominis.blog
 $boost=3,site=domipheus.com
 $boost=3,site=domm.plix.at
 $boost=3,site=dommagnifi.co
@@ -11215,6 +11242,7 @@ $boost=3,site=dovydas.com
 $boost=3,site=dowdy.dev
 $boost=3,site=downrightnifty.me
 $boost=3,site=downwithup.github.io
+$boost=3,site=doyoulovethewayzeylily.tumblr.com
 $boost=3,site=dozensanddragons.neocities.org
 $boost=3,site=dozheiny.net
 $boost=3,site=dp-blog.bearblog.dev
@@ -11541,6 +11569,7 @@ $boost=3,site=dystroy.org
 $boost=3,site=dyz.io
 $boost=3,site=dyzendumps.bearblog.dev
 $boost=3,site=dz0ny.dev
+$boost=3,site=dzgapp.com
 $boost=3,site=dzhavat.github.io
 $boost=3,site=dzlab.github.io
 $boost=3,site=dzoba.com
@@ -11779,6 +11808,7 @@ $boost=3,site=eikopf.bearblog.dev
 $boost=3,site=eikowagenknecht.com
 $boost=3,site=eileenanddogs.com
 $boost=3,site=eileencodes.com
+$boost=3,site=eiln.github.io
 $boost=3,site=einarwh.no
 $boost=3,site=eindex.me
 $boost=3,site=eink.cam
@@ -12249,6 +12279,7 @@ $boost=3,site=erikzaadi.com
 $boost=3,site=erildrun.bearblog.dev
 $boost=3,site=erin.bearblog.dev
 $boost=3,site=erinkissane.com
+$boost=3,site=erinmckean.com
 $boost=3,site=erinrwhite.com
 $boost=3,site=eriq.se
 $boost=3,site=eriskii.net
@@ -13376,6 +13407,7 @@ $boost=3,site=funfoodfreedom.huskydog.org.uk
 $boost=3,site=fungiverse.wordpress.com
 $boost=3,site=fungus.zone
 $boost=3,site=fungusfactory.tumblr.com
+$boost=3,site=funky.dev
 $boost=3,site=funkymuse.dev
 $boost=3,site=funloop.org
 $boost=3,site=funnelfiasco.com
@@ -13457,6 +13489,7 @@ $boost=3,site=gabrielediamanti.com
 $boost=3,site=gabrielfalcao.github.io
 $boost=3,site=gabriellabalagna.com
 $boost=3,site=gabrielrodriguez.net
+$boost=3,site=gabrielsampson.com
 $boost=3,site=gabskent.de
 $boost=3,site=gaby.wordpress.com
 $boost=3,site=gabz.blog
@@ -13579,6 +13612,7 @@ $boost=3,site=gasanature.org
 $boost=3,site=gashlin.net
 $boost=3,site=gasstationwithoutpumps.wordpress.com
 $boost=3,site=gatc.ca
+$boost=3,site=gattsuru.tumblr.com
 $boost=3,site=gau-nernst.github.io
 $boost=3,site=gaultier.github.io
 $boost=3,site=gaurav.koley.in
@@ -14934,6 +14968,7 @@ $boost=3,site=hiddeinplain.site
 $boost=3,site=hiddendragon.bearblog.dev
 $boost=3,site=hiddenperson.bearblog.dev
 $boost=3,site=hiddentao.com
+$boost=3,site=hideandseek.bearblog.dev
 $boost=3,site=hidekazu-konishi.com
 $boost=3,site=hideout.ink
 $boost=3,site=hieptran.me
@@ -15217,6 +15252,7 @@ $boost=3,site=hugopeters.me
 $boost=3,site=hugosereno.com
 $boost=3,site=hugosum.com
 $boost=3,site=hugotunius.se
+$boost=3,site=hugovergnes.github.io
 $boost=3,site=hugovk.dev
 $boost=3,site=hugozap.com
 $boost=3,site=hugsforyourjugs.blogspot.com
@@ -15774,6 +15810,7 @@ $boost=3,site=inkywanderer.com
 $boost=3,site=inliniac.net
 $boost=3,site=inmatesofwillard.com
 $boost=3,site=inmoscowsshadows.wordpress.com
+$boost=3,site=innerhealing.blog
 $boost=3,site=innerlmnt.bearblog.dev
 $boost=3,site=innovintageblog.wordpress.com
 $boost=3,site=innuendostudios.tumblr.com
@@ -17883,6 +17920,8 @@ $boost=3,site=juni-mp4.bearblog.dev
 $boost=3,site=juniperspring.org
 $boost=3,site=junkato.jp
 $boost=3,site=junkfoodscience.blogspot.com
+$boost=3,site=junkyardmagnet.tumblr.com
+$boost=3,site=junkyardrockstories.com
 $boost=3,site=junueno.dev
 $boost=3,site=junupark.xyz
 $boost=3,site=jupe.studio
@@ -17898,6 +17937,7 @@ $boost=3,site=justagirlxoxo.bearblog.dev
 $boost=3,site=justagwailo.com
 $boost=3,site=justalittlefurther.com
 $boost=3,site=justanotherelectronicsblog.com
+$boost=3,site=justanotherhorrorstory.bearblog.dev
 $boost=3,site=justapa.thologi.st
 $boost=3,site=justaqueerbookblog.bearblog.dev
 $boost=3,site=justbluedutch.com
@@ -18176,6 +18216,7 @@ $boost=3,site=katafrakt.me
 $boost=3,site=katalean.tumblr.com
 $boost=3,site=katalepsis.net
 $boost=3,site=katamari64.se
+$boost=3,site=katapila.bearblog.dev
 $boost=3,site=katat.me
 $boost=3,site=katbots.neocities.org
 $boost=3,site=katdispatch.bearblog.dev
@@ -18918,6 +18959,7 @@ $boost=3,site=kushvinth.com
 $boost=3,site=kusma.xyz
 $boost=3,site=kuttithevangu.tumblr.com
 $boost=3,site=kuttler.eu
+$boost=3,site=kuurp.nekoweb.org
 $boost=3,site=kuwadorian.bearblog.dev
 $boost=3,site=kuzujanakis.com
 $boost=3,site=kvaes.wordpress.com
@@ -18979,6 +19021,7 @@ $boost=3,site=kyo.iroiro.party
 $boost=3,site=kyoung.codes
 $boost=3,site=kyra45.tumblr.com
 $boost=3,site=kyrieblunders.bearblog.dev
+$boost=3,site=kyrofa.com
 $boost=3,site=kyrylo.org
 $boost=3,site=kyscg.github.io
 $boost=3,site=kyunghyuncho.me
@@ -19427,6 +19470,7 @@ $boost=3,site=lex00.github.io
 $boost=3,site=lexfeathers.ca
 $boost=3,site=lexi-lambda.github.io
 $boost=3,site=lexie.bearblog.dev
+$boost=3,site=lexontech.org
 $boost=3,site=lexp.lt
 $boost=3,site=lezwatchtv.com
 $boost=3,site=lf3.gitlab.io
@@ -19514,6 +19558,7 @@ $boost=3,site=lightlogged.pagecord.com
 $boost=3,site=lightningbeam.org
 $boost=3,site=lightningwright.net
 $boost=3,site=lightsforcats.com
+$boost=3,site=lightyearlabs.ca
 $boost=3,site=lihautan.com
 $boost=3,site=liisaeyerly.com
 $boost=3,site=liisten.com
@@ -19639,6 +19684,7 @@ $boost=3,site=littleintents.com
 $boost=3,site=littlelanguagemodels.com
 $boost=3,site=littlemaninmyhead.wordpress.com
 $boost=3,site=littlemight.com
+$boost=3,site=littlemiscellanea.bearblog.dev
 $boost=3,site=littlemountainman.github.io
 $boost=3,site=littlemu.blog
 $boost=3,site=littlepotato.me
@@ -19901,6 +19947,7 @@ $boost=3,site=louisporter.com
 $boost=3,site=louisrushmore.wordpress.com
 $boost=3,site=louissven.xyz
 $boost=3,site=loukidelis.com
+$boost=3,site=loumorganauthor.wordpress.com
 $boost=3,site=loungeruminator.net
 $boost=3,site=loup-vaillant.fr
 $boost=3,site=louplummer.lol
@@ -20334,6 +20381,7 @@ $boost=3,site=mahmoudimus.com
 $boost=3,site=maho.dev
 $boost=3,site=maia.crimew.gay
 $boost=3,site=maida.kim
+$boost=3,site=maidenlessgardener.bearblog.dev
 $boost=3,site=maier.tech
 $boost=3,site=maikel.pro
 $boost=3,site=mail.cyberneticforests.com
@@ -20384,6 +20432,7 @@ $boost=3,site=maltefiala.com
 $boost=3,site=maltheborch.com
 $boost=3,site=maltsev.space
 $boost=3,site=maltzj.com
+$boost=3,site=malucelli.net
 $boost=3,site=malura.de
 $boost=3,site=malvasiabianca.org
 $boost=3,site=malwaretech.com
@@ -20978,6 +21027,7 @@ $boost=3,site=matthewpearceauthor.com
 $boost=3,site=matthewpennell.com
 $boost=3,site=matthewprattguterl.com
 $boost=3,site=matthewreinbold.com
+$boost=3,site=matthewritch.com
 $boost=3,site=matthewrocklin.com
 $boost=3,site=matthewsag.com
 $boost=3,site=matthewscheffel.com
@@ -21185,6 +21235,7 @@ $boost=3,site=mbork.pl
 $boost=3,site=mbrenndoerfer.com
 $boost=3,site=mbrizic.com
 $boost=3,site=mbuffett.com
+$boost=3,site=mbugert.de
 $boost=3,site=mbullington.net
 $boost=3,site=mburaksayici.com
 $boost=3,site=mbutler.org
@@ -21426,6 +21477,7 @@ $boost=3,site=meredithgran.com
 $boost=3,site=merelinux.org
 $boost=3,site=merge.bearblog.dev
 $boost=3,site=mergy.org
+$boost=3,site=meridianplate.com
 $boost=3,site=merki.ca
 $boost=3,site=merlin.ghost.io
 $boost=3,site=merlin.rebrovic.net
@@ -21510,6 +21562,7 @@ $boost=3,site=mfroeh.github.io
 $boost=3,site=mfwritings.writeas.com
 $boost=3,site=mfyz.com
 $boost=3,site=mfzx.net
+$boost=3,site=mg-crea.com
 $boost=3,site=mg.dev
 $boost=3,site=mg0x7be.github.io
 $boost=3,site=mgarletmilani.com
@@ -21667,6 +21720,7 @@ $boost=3,site=micro.welltempered.net
 $boost=3,site=microblog.ahti.space
 $boost=3,site=microblog.desipenguin.com
 $boost=3,site=microblog.thomascannon.me
+$boost=3,site=microbrewreviews.blogspot.com
 $boost=3,site=microbyte.neocities.org
 $boost=3,site=microcorelabs.com
 $boost=3,site=microgravities.net
@@ -21752,6 +21806,7 @@ $boost=3,site=mikecoats.com
 $boost=3,site=mikeda.me
 $boost=3,site=mikedalton.co
 $boost=3,site=mikeeckman.com
+$boost=3,site=mikeeyes.com
 $boost=3,site=mikefromlfe.mataroa.blog
 $boost=3,site=mikegallagher.org
 $boost=3,site=mikegriffin.ie
@@ -22428,6 +22483,7 @@ $boost=3,site=muffin.ink
 $boost=3,site=muffinlabs.com
 $boost=3,site=muffinman.io
 $boost=3,site=mufidu.com
+$boost=3,site=mufusa.com
 $boost=3,site=mugofacorns.bearblog.dev
 $boost=3,site=muhammadhaseeb.me
 $boost=3,site=muhammadraza.me
@@ -22597,6 +22653,7 @@ $boost=3,site=myrabeth.com
 $boost=3,site=myrkvi.no
 $boost=3,site=myrrlyn.net
 $boost=3,site=myrtletribe.neocities.org
+$boost=3,site=mysillycomics.tumblr.com
 $boost=3,site=mysoftwaretesting.com
 $boost=3,site=mysteriesahoy.com
 $boost=3,site=mysteryfile.com
@@ -23312,6 +23369,7 @@ $boost=3,site=nitayneeman.com
 $boost=3,site=nitely.github.io
 $boost=3,site=niteshpant.com
 $boost=3,site=nithinbekal.com
+$boost=3,site=nithitsuki.com
 $boost=3,site=nitingupta.dev
 $boost=3,site=nitinnain.com
 $boost=3,site=nitrateglow.wordpress.com
@@ -23620,6 +23678,7 @@ $boost=3,site=nothings.bearblog.dev
 $boost=3,site=nothings.bearblog.dev
 $boost=3,site=nothings.bearblog.dev
 $boost=3,site=nothinguntoward.eu
+$boost=3,site=nothingvalued.bearblog.dev
 $boost=3,site=notimetoplay.org
 $boost=3,site=notionparallax.co.uk
 $boost=3,site=notionscapital.wordpress.com
@@ -23735,6 +23794,7 @@ $boost=3,site=number1.co.za
 $boost=3,site=numbered.works
 $boost=3,site=numbernomics.com
 $boost=3,site=numbersandshapes.net
+$boost=3,site=nume.ca
 $boost=3,site=numergent.com
 $boost=3,site=numericcitizen.me
 $boost=3,site=numerlab.org
@@ -23755,6 +23815,7 @@ $boost=3,site=nutcroft.mataroa.blog
 $boost=3,site=nutfieldgenealogy.blogspot.com
 $boost=3,site=nutfieldsecurity.com
 $boost=3,site=nutgrafs.com
+$boost=3,site=nutnoce.tumblr.com
 $boost=3,site=nuudeli.com
 $boost=3,site=nuxx.net
 $boost=3,site=nv1t.github.io
@@ -24315,6 +24376,7 @@ $boost=3,site=otherother.bearblog.dev
 $boost=3,site=otherstories.bearblog.dev
 $boost=3,site=othmarstrombone.wordpress.com
 $boost=3,site=otium.bearblog.dev
+$boost=3,site=otolock.net
 $boost=3,site=ottawarewind.com
 $boost=3,site=ottercrew.group
 $boost=3,site=ottomansandzionists.com
@@ -25855,6 +25917,7 @@ $boost=3,site=pwnosaur.com
 $boost=3,site=pwshnotes.flounder.online
 $boost=3,site=pwy.io
 $boost=3,site=pxhc.neocities.org
+$boost=3,site=pxlarea.com
 $boost=3,site=pxtl.ca
 $boost=3,site=pydong.org
 $boost=3,site=pydpainter.org
@@ -26142,6 +26205,7 @@ $boost=3,site=ralphsaunders.co.uk
 $boost=3,site=ralsina.me
 $boost=3,site=ram.tianon.xyz
 $boost=3,site=rambleon.org
+$boost=3,site=ramblerambleramble.bearblog.dev
 $boost=3,site=ramblingbrick.com
 $boost=3,site=ramblingfox.bearblog.dev
 $boost=3,site=ramblinggit.com
@@ -26250,6 +26314,7 @@ $boost=3,site=ratakor.neocities.org
 $boost=3,site=ratfactor.com
 $boost=3,site=ratheronfire.com
 $boost=3,site=ratio53.com
+$boost=3,site=ratioshift.com
 $boost=3,site=ratnagandh.wordpress.com
 $boost=3,site=ratner.io
 $boost=3,site=ratpie.org
@@ -26329,6 +26394,7 @@ $boost=3,site=rdeaton.space
 $boost=3,site=rdela.com
 $boost=3,site=rdiachenko.com
 $boost=3,site=rdklein.fr
+$boost=3,site=rdmsr.github.io
 $boost=3,site=rdn32.com
 $boost=3,site=rdnlsmith.com
 $boost=3,site=rdowd.com
@@ -27023,6 +27089,7 @@ $boost=3,site=robskinner.net
 $boost=3,site=robvella.com
 $boost=3,site=robwilson1.wordpress.com
 $boost=3,site=robynbirdblog.bearblog.dev
+$boost=3,site=robynfaithwalsh.com
 $boost=3,site=rochan.bearblog.dev
 $boost=3,site=rochansinha.com
 $boost=3,site=rochemamabolo.wordpress.com
@@ -27218,6 +27285,7 @@ $boost=3,site=rotemtam.com
 $boost=3,site=roufri.com
 $boost=3,site=roughghosts.com
 $boost=3,site=roughly-understood.com
+$boost=3,site=roundseventeen.blogspot.com
 $boost=3,site=roussos.cc
 $boost=3,site=routerjockey.com
 $boost=3,site=routingcraft.net
@@ -27589,6 +27657,7 @@ $boost=3,site=sahilkapoor.com
 $boost=3,site=sahilparikh.com
 $boost=3,site=saidwithcourage.com
 $boost=3,site=saikrishna.superblog.cloud
+$boost=3,site=sailandsavor.blog
 $boost=3,site=saile.it
 $boost=3,site=sailingwithmasters.com
 $boost=3,site=sailsandcommas.com
@@ -27720,6 +27789,7 @@ $boost=3,site=samuel.forestier.app
 $boost=3,site=samuel.karp.dev
 $boost=3,site=samuelbigos.github.io
 $boost=3,site=samueleamato.xyz
+$boost=3,site=samuelfitoussi.com
 $boost=3,site=samuelkraft.com
 $boost=3,site=samuellawrentz.com
 $boost=3,site=samuellison.com
@@ -27822,7 +27892,6 @@ $boost=3,site=saran-blog.vercel.app
 $boost=3,site=sararobinson.dev
 $boost=3,site=sarat.dev
 $boost=3,site=sarcasticresonance.wordpress.com
-$boost=3,site=sarenthar.blogspot.com
 $boost=3,site=sarge945.xyz
 $boost=3,site=sariel.pl
 $boost=3,site=sariyuce.com
@@ -28220,6 +28289,7 @@ $boost=3,site=security-bits.de
 $boost=3,site=securityinaction.wordpress.com
 $boost=3,site=securitysandman.com
 $boost=3,site=securityuncorked.com
+$boost=3,site=secustor.dev
 $boost=3,site=seddonym.me
 $boost=3,site=sedimental.org
 $boost=3,site=seds.nl
@@ -28589,6 +28659,7 @@ $boost=3,site=shnatsel.github.io
 $boost=3,site=shobhitic.com
 $boost=3,site=shockandawesimonreynolds2.blogspot.com
 $boost=3,site=shocksolution.com
+$boost=3,site=shocm.me
 $boost=3,site=shodantltwb.neocities.org
 $boost=3,site=shoegazing.com
 $boost=3,site=shoegazing.com
@@ -28956,6 +29027,7 @@ $boost=3,site=skogsbrus.xyz
 $boost=3,site=skookworks.com
 $boost=3,site=skoop.dev
 $boost=3,site=skoove.dev
+$boost=3,site=skop.finitynetwork.com
 $boost=3,site=skoredin.pro
 $boost=3,site=skoula.cz
 $boost=3,site=skousidis.eu
@@ -29163,6 +29235,7 @@ $boost=3,site=social.emucafe.org
 $boost=3,site=socialecologies.wordpress.com
 $boost=3,site=socialgaff.whirling.top
 $boost=3,site=socialmaharaj.com
+$boost=3,site=sociation.bearblog.dev
 $boost=3,site=sociobiology.wordpress.com
 $boost=3,site=sociohat.bearblog.dev
 $boost=3,site=sociotechnical.org
@@ -29239,6 +29312,7 @@ $boost=3,site=solomonneas.dev
 $boost=3,site=solopov.dev
 $boost=3,site=solradguy.neocities.org
 $boost=3,site=solrevdev.com
+$boost=3,site=solutionexplorer.dev
 $boost=3,site=solutionspace.blog
 $boost=3,site=solveigsorbo.com
 $boost=3,site=somas.is
@@ -29738,6 +29812,7 @@ $boost=3,site=stepsandleaps.wordpress.com
 $boost=3,site=stereobooster.com
 $boost=3,site=stereoscopy.blog
 $boost=3,site=stern.bearblog.dev
+$boost=3,site=sternaparadisaea.net
 $boost=3,site=sterneworks.org
 $boost=3,site=stevana.github.io
 $boost=3,site=steve-adams.me
@@ -30037,6 +30112,7 @@ $boost=3,site=sunjain.com
 $boost=3,site=sunny.bearblog.dev
 $boost=3,site=sunny.gg
 $boost=3,site=sunnyamrat.com
+$boost=3,site=sunnydeveloper.com
 $boost=3,site=sunriseprogrammer.blogspot.com
 $boost=3,site=sunscales.bearblog.dev
 $boost=3,site=sunshine-jones.com
@@ -30187,6 +30263,7 @@ $boost=3,site=switowski.com
 $boost=3,site=swizec.com
 $boost=3,site=swlody.dev
 $boost=3,site=swoleateveryheight.blogspot.com
+$boost=3,site=sword-of-moonlight.moe
 $boost=3,site=swordandsignals.com
 $boost=3,site=swordsandstitchery.blogspot.com
 $boost=3,site=swordsedge.ca
@@ -31216,6 +31293,7 @@ $boost=3,site=therope.us
 $boost=3,site=therpggazette.wordpress.com
 $boost=3,site=theruminationcompilation.com
 $boost=3,site=therussianreader.com
+$boost=3,site=therustyskull.tumblr.com
 $boost=3,site=thesacredpage.com
 $boost=3,site=thesaigoneer.bearblog.dev
 $boost=3,site=thesameoldfew.wordpress.com
@@ -31356,6 +31434,7 @@ $boost=3,site=thienantran.com
 $boost=3,site=thierrymoudiki.github.io
 $boost=3,site=thijsporck.com
 $boost=3,site=thinc.blog
+$boost=3,site=thingsfound.bearblog.dev
 $boost=3,site=thingshavehistory.com
 $boost=3,site=thingsilearned.com
 $boost=3,site=thingstoclick.com
@@ -32104,6 +32183,7 @@ $boost=3,site=treesandrobots.com
 $boost=3,site=trefethen.net
 $boost=3,site=trekhleb.dev
 $boost=3,site=trentpolack.com
+$boost=3,site=tresbien.tech
 $boost=3,site=trestrestr.es
 $boost=3,site=trevdev.ca
 $boost=3,site=trevo.rs
@@ -33188,6 +33268,7 @@ $boost=3,site=vpetkov.net
 $boost=3,site=vpon.me
 $boost=3,site=vr.bearblog.dev
 $boost=3,site=vreaa.wordpress.com
+$boost=3,site=vrh.bearblog.dev
 $boost=3,site=vromans.bearblog.dev
 $boost=3,site=vrong.me
 $boost=3,site=vrroom.github.io
@@ -33262,6 +33343,7 @@ $boost=3,site=waldencui.com
 $boost=3,site=waldo.jaquith.org
 $boost=3,site=waldo.vanderlore.de
 $boost=3,site=walford.com
+$boost=3,site=walk-up-songs.tumblr.com
 $boost=3,site=walker-data.com
 $boost=3,site=walkergriggs.com
 $boost=3,site=walkingredwoodcity.com
@@ -33418,6 +33500,7 @@ $boost=3,site=weidongzhou.wordpress.com
 $boost=3,site=weinholt.se
 $boost=3,site=weiranzhang.com
 $boost=3,site=weirdmachine64.github.io
+$boost=3,site=weirdopoetry.com
 $boost=3,site=weirdoverse.com
 $boost=3,site=weirdwonderfulworlds.blogspot.com
 $boost=3,site=weisser-zwerg.dev
@@ -33553,6 +33636,8 @@ $boost=3,site=whynot.fail
 $boost=3,site=whynothugo.nl
 $boost=3,site=wickedchicken.github.io
 $boost=3,site=wickstrom.tech
+$boost=3,site=widdershins.bearblog.dev
+$boost=3,site=widdershins.verja.net
 $boost=3,site=widdershinswanderings.bearblog.dev
 $boost=3,site=widdindustries.com
 $boost=3,site=widerquist.com
@@ -33845,6 +33930,7 @@ $boost=3,site=worstplans.com
 $boost=3,site=worthamention.wordpress.com
 $boost=3,site=worthdoingbadly.com
 $boost=3,site=worthe-it.co.za
+$boost=3,site=wotrot.tumblr.com
 $boost=3,site=wouter.coekaerts.be
 $boost=3,site=wouterj.nl
 $boost=3,site=wovenmemories.net
@@ -34661,6 +34747,8 @@ $boost=3,site=www.blogger.com
 $boost=3,site=www.blogger.com
 $boost=3,site=www.blogger.com
 $boost=3,site=www.blogger.com
+$boost=3,site=www.blogger.com
+$boost=3,site=www.blogger.com
 $boost=3,site=www.bloggingawaydebt.com
 $boost=3,site=www.bloggure.info
 $boost=3,site=www.blogofholding.com
@@ -34693,6 +34781,7 @@ $boost=3,site=www.borninspace.com
 $boost=3,site=www.boronine.com
 $boost=3,site=www.bossadizenith.me
 $boost=3,site=www.boucek.me
+$boost=3,site=www.boundarywatersblog.com
 $boost=3,site=www.boxofcables.dev
 $boost=3,site=www.boxyuwu.blog
 $boost=3,site=www.boyney.io
@@ -35546,6 +35635,7 @@ $boost=3,site=www.drmindle.com
 $boost=3,site=www.droplinegnome.org
 $boost=3,site=www.droppedasbaby.com
 $boost=3,site=www.drorpoleg.com
+$boost=3,site=www.drrajatchauhan.com
 $boost=3,site=www.drroyspencer.com
 $boost=3,site=www.drugdiscovery.net
 $boost=3,site=www.drugwarrant.com
@@ -35784,6 +35874,7 @@ $boost=3,site=www.extremeelectronics.co.uk
 $boost=3,site=www.extua.pw
 $boost=3,site=www.exurbe.com
 $boost=3,site=www.eyosias.dev
+$boost=3,site=www.ezini.eu
 $boost=3,site=www.f15sim.com
 $boost=3,site=www.f4fxl.org
 $boost=3,site=www.fabianfalck.com
@@ -36731,6 +36822,7 @@ $boost=3,site=www.johanbleuzen.fr
 $boost=3,site=www.johannesjaeger.eu
 $boost=3,site=www.johanneslandgraf.com
 $boost=3,site=www.johbo.com
+$boost=3,site=www.johnaldred.com
 $boost=3,site=www.johnbhiggins.com
 $boost=3,site=www.johnbradleyjackson.com
 $boost=3,site=www.johnbyrd.org
@@ -36955,6 +37047,7 @@ $boost=3,site=www.kassner.com.br
 $boost=3,site=www.katebelgrave.com
 $boost=3,site=www.katedee.com
 $boost=3,site=www.kateheartfield.com
+$boost=3,site=www.katelynlesse.com
 $boost=3,site=www.katherinewastell.com
 $boost=3,site=www.kathrynrosamiller.com
 $boost=3,site=www.katrinakennedy.com
@@ -37206,6 +37299,7 @@ $boost=3,site=www.lichtenbergianism.com
 $boost=3,site=www.liesdamnedlies.com
 $boost=3,site=www.lifdb.com
 $boost=3,site=www.lifebynumbers.ca
+$boost=3,site=www.lifeofguenter.de
 $boost=3,site=www.lifeofnav.in
 $boost=3,site=www.lifewaza.com
 $boost=3,site=www.lifewithalacrity.com
@@ -37395,6 +37489,7 @@ $boost=3,site=www.marcusfolkesson.se
 $boost=3,site=www.marcusjaschen.de
 $boost=3,site=www.marczewski.me.uk
 $boost=3,site=www.margaretsoltan.com
+$boost=3,site=www.margatefootballclubhistory.com
 $boost=3,site=www.marginalia.nu
 $boost=3,site=www.marginallyclever.com
 $boost=3,site=www.mariannefeng.com
@@ -37625,6 +37720,7 @@ $boost=3,site=www.michelebologna.net
 $boost=3,site=www.michelecoscia.com
 $boost=3,site=www.michevan.id.au
 $boost=3,site=www.mickf.net
+$boost=3,site=www.micropsiacine.com
 $boost=3,site=www.micski.dk
 $boost=3,site=www.mielke.ws
 $boost=3,site=www.mig-marketing.com
@@ -37877,6 +37973,7 @@ $boost=3,site=www.neurotraveler.com
 $boost=3,site=www.nevblog.com
 $boost=3,site=www.neverbeclever.org
 $boost=3,site=www.neverendingfootsteps.com
+$boost=3,site=www.neverenough.com
 $boost=3,site=www.neversaw.us
 $boost=3,site=www.neververy4.com
 $boost=3,site=www.new23d.com
@@ -38262,6 +38359,7 @@ $boost=3,site=www.philsimon.com
 $boost=3,site=www.philvenables.com
 $boost=3,site=www.phoenixhelix.com
 $boost=3,site=www.photoartfromscience.com
+$boost=3,site=www.php-baremetal.com
 $boost=3,site=www.phpfreelance.co.uk
 $boost=3,site=www.phpied.com
 $boost=3,site=www.phpscaling.com
@@ -38466,6 +38564,7 @@ $boost=3,site=www.ratemyprompt.dev
 $boost=3,site=www.rathboma.com
 $boost=3,site=www.ratik.in
 $boost=3,site=www.raulcano.dev
+$boost=3,site=www.rauljimenez.info
 $boost=3,site=www.raulpacheco.org
 $boost=3,site=www.raulprisacariu.com
 $boost=3,site=www.raveen.ca
@@ -38629,6 +38728,7 @@ $boost=3,site=www.rohitagarwal.dev
 $boost=3,site=www.rohitsalecha.com
 $boost=3,site=www.rojtberg.net
 $boost=3,site=www.rolandfg.net
+$boost=3,site=www.rolandmicroblog.com
 $boost=3,site=www.rolfje.com
 $boost=3,site=www.rollc.at
 $boost=3,site=www.rollercoasterphilosophy.com
@@ -39648,6 +39748,7 @@ $boost=3,site=www.toor.su
 $boost=3,site=www.topaztee.com
 $boost=3,site=www.torgo.com
 $boost=3,site=www.totallyhuman.io
+$boost=3,site=www.totes-legit-notmalware.site
 $boost=3,site=www.toughdev.com
 $boost=3,site=www.townhistory.org
 $boost=3,site=www.toyboxphilosopher.com
@@ -40305,6 +40406,7 @@ $boost=3,site=yawnbox.eu
 $boost=3,site=yaz.zone
 $boost=3,site=yazanalaboudi.dev
 $boost=3,site=ycao.net
+$boost=3,site=ycj.bearblog.dev
 $boost=3,site=ycsoftware.net
 $boost=3,site=yctct.com
 $boost=3,site=yearnings-diary.bearblog.dev
