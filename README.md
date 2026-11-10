@@ -1,8 +1,8 @@
 # Small Web Goggle
 
-A Brave Search Goggle generated from Kagi's Small Web list.
+A Brave Search Goggle built from (Kagi's Small Web list)[https://github.com/kagisearch/smallweb/blob/main/smallweb.txt].
 
-The generated `smallweb.goggle` discards sites not in the Small Web list.
+The generated `smallweb.goggle` keeps only sites that appear in the Small Web list.
 
 ## Usage
 
@@ -12,7 +12,7 @@ Build the Goggle:
 deno task build
 ```
 
-Submit the generated Goggle to Brave Search:
+Then submit it to Brave Search:
 
 ```sh
 deno task submit
@@ -20,4 +20,6 @@ deno task submit
 
 ## Automation
 
-The GitHub Actions workflow in `.github/workflows/update.yaml` runs daily, rebuilds `smallweb.goggle`, commits changes when the upstream list changes, and submits the updated Goggle.
+The GitHub Actions workflow in `.github/workflows/update.yaml` runs daily: it rebuilds
+`smallweb.goggle`, commits and pushes it when the upstream list has changed, and then
+submits the updated Goggle.

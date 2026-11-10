@@ -38,9 +38,13 @@ $discard
 `;
 
 for (const url of smallweb.trim().split(/\r\n|\n|\r/)) {
-  const { hostname } = new URL(url);
-  const boost = BOOST_OVERRIDES[hostname] ?? BOOST;
-  goggle += `$boost=${boost},site=${hostname}\n`;
+  try {
+    const { hostname } = new URL(url);
+    const boost = BOOST_OVERRIDES[hostname] ?? BOOST;
+    goggle += `$boost=${boost},site=${hostname}\n`;
+  } catch {
+    console.warn(`Invalid URL: ${url}`);
+  }
 }
 
 Deno.writeTextFileSync('./smallweb.goggle', goggle);
