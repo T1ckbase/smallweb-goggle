@@ -1,6 +1,6 @@
 # Small Web Goggle
 
-A Brave Search Goggle built from (Kagi's Small Web list)[https://github.com/kagisearch/smallweb/blob/main/smallweb.txt].
+A Brave Search Goggle built from [Kagi's Small Web list](https://github.com/kagisearch/smallweb/blob/main/smallweb.txt).
 
 The generated `smallweb.goggle` keeps only sites that appear in the Small Web list.
 
