@@ -38,11 +38,11 @@ $discard
 `;
 
 for (const url of smallweb.trim().split(/\r\n|\n|\r/)) {
-  try {
+  if (URL.canParse(url)) {
     const { hostname } = new URL(url);
     const boost = BOOST_OVERRIDES[hostname] ?? BOOST;
     goggle += `$boost=${boost},site=${hostname}\n`;
-  } catch {
+  } else {
     console.warn(`Invalid URL: ${url}`);
   }
 }
